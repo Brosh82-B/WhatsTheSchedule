@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex-grow: 1;
+  overflow-y: auto;
+  background-color: #9EABCB;
+  text-align: center;
+  padding: 3vh 5vw 0 5vw;
+  /* overflow-y: auto; */
+}
